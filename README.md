@@ -12,4 +12,5 @@
 
 # Time
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/105885525?v=4" width=115><br><sub>Felipe Costa</sub>](https://github.com/fjprcosta)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105885525?v=4" width=115><br><sub>Felipe Costa</sub>](https://github.com/gabrielle-ribeiro) |
+| :---: |
